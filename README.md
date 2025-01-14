@@ -45,14 +45,12 @@ Kurulum
 Projeyi GitHub'dan klonlayın:
 
 git clone https://github.com/SerhatOzdemirr/E-CommerceUI
-Use code with caution.
-Bash
-Proje klasörüne gidin:
 
-cd E-CommerceUI
-Use code with caution.
-Bash
+
+Proje klasörüne gidin: cd E-CommerceUI
+
 index.html dosyasını bir web tarayıcısında açın.
+
 
 Katkıda Bulunma
 
